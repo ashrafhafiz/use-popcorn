@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-// import "./index.css";
-// import App from "./App";
+import "./index.css";
+import App from "./App";
 // import App from "./start-rating/App";
-import App from "./text-expander/App";
+// import App from "./text-expander/App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
